@@ -1,4 +1,4 @@
-I'm###Hi there, I'm Dileep Neerarambam 👋
+###Hi there, I'm Dileep Neerarambam 👋
 
 IT Administrator | DevOps Enthusiast | Cloud & Infrastructure Monitoring
 
